@@ -1,3 +1,3 @@
 # perlet
 
-Pructice to Vue.js <-> golang <-> mongodb
+Practice to Vue.js <-> golang <-> mongodb
